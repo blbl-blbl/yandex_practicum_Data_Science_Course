@@ -8,3 +8,8 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
   4. Final Project of 1 Module - [Preparing a marketplace data showcase and solving ad hoc problems based on it](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_1_SQL/Final_project_of_1_module.sql)
 
 **Tools:** PostgreSQL
+
+## Module 2 Python language basics and analysis
+  1. Python basics
+
+** Tools:** Python
