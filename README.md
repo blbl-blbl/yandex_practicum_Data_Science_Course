@@ -11,5 +11,6 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
 
 ## Module 2 Python language basics and analysis
   1. Python basics
+  2. Python. Data preprocessing
 
-**Tools:** Python
+**Tools:** Python, pandas
