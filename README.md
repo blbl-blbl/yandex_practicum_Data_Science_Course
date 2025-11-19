@@ -15,4 +15,4 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
      Project of 2 sprint - [A study of the development of the gaming industry from 2000 to 2013](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_2_Python_Preprocessing/Games_dataset_preprocessing.ipynb)
   3. Exploratory data analysis and visualization using Python.
 
-**Tools:** Python, pandas, matplotlib
+**Tools:** Python, pandas, matplotlib, phick
