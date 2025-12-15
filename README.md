@@ -16,5 +16,6 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
   3. Exploratory data analysis and visualization using Python.  
        Project of 3 sprint - [Analysis of the Moscow catering market](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_2_Python_Preprocessing/2.%20food%20sector%20analysis/food_sector_analysis.ipynb)
   4. Development tools for Data Science & OOP.
+  5. Final Progect of 2 Module - [Yandex Afisha User Loyalty Analysis](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_2_Python_Preprocessing/Final_project_of_2_module.ipynb)
 
 **Tools:** Python, pandas, matplotlib, phik, seaborn, bash
