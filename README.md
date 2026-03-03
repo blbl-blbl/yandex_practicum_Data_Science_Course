@@ -23,5 +23,7 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
 ## Module 3
   1. Linear Regression
        Project - [A model for predicting sea turtle mass](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_3/Linear_Regression.ipynb)
+  2. Support Vector Machine
+       Project - [A model for predicting whether website visitors will click on an advertising banner](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/tree/main/Module_3/Support%20vector%20machine)
 
-**Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy
+**Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib
