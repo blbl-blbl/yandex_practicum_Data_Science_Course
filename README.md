@@ -24,6 +24,7 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
   1. Linear Regression
        Project - [A model for predicting sea turtle mass](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_3/Linear_Regression.ipynb)
   2. Support Vector Machine
-       Project - [A model for predicting whether website visitors will click on an advertising banner](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/tree/main/Module_3/Support%20vector%20machine)
+       Project - [A model for predicting whether website visitors will click on an advertising banner]([https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/tree/main/Module_3/Support%20vector%20machine](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_3/Support%20vector%20machine/SVM.ipynb))
+  3. Final Project of 3 Module - [A model for predicting the age of website visitors](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_3/Final%20Progect%20of%203%20Module/Final%20Progect%20of%203%20Module.ipynb)
 
 **Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib
