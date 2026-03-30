@@ -28,3 +28,9 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
   3. Final Project of 3 Module - [A model for predicting the age of website visitors](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_3/Final%20Progect%20of%203%20Module/Final%20Progect%20of%203%20Module.ipynb)
 
 **Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib
+
+## Module 4
+  1. Decision Tree
+       Project - [A nonlinear model for forecasting bicycle demand](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/tree/main/Module_4/DecisionTree)
+
+**Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib, optuna
