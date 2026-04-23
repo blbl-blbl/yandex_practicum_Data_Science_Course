@@ -21,18 +21,18 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
 **Tools:** Python, pandas, matplotlib, phik, seaborn, bash, sqlalchemy
 
 ## Module 3
-  1. Linear Regression
+  1. Linear Regression  
        Project of 1 sprint - [A model for predicting sea turtle mass](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_3/Linear_Regression.ipynb)
-  2. Support Vector Machine
+  2. Support Vector Machine  
        Project of 2 sprint - [A model for predicting whether website visitors will click on an advertising banner](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_3/Support%20vector%20machine/SVM.ipynb)
   3. Final Project of 3 Module - [A model for predicting the age of website visitors](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_3/Final%20Progect%20of%203%20Module/Final%20Progect%20of%203%20Module.ipynb)
 
 **Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib
 
 ## Module 4
-  1. Decision Tree
+  1. Decision Tree  
        Project of 1 sprint - [A nonlinear model for forecasting bicycle demand](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/tree/main/Module_4/DecisionTree)
-  2. Random Forest
+  2. Random Forest  
        Project of 2 sprint - [A model for predicting loan defaults among bank clients](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_4/DecisionTree/A%20model%20for%20predicting%20loan%20defaults%20among%20bank%20clients.ipynb)
 
 **Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib, optuna, imblearn, mlxtend
