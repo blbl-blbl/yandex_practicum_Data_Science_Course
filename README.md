@@ -36,5 +36,6 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
        Project of 2 sprint - [A model for predicting loan defaults among bank clients](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_4/DecisionTree/A%20model%20for%20predicting%20loan%20defaults%20among%20bank%20clients.ipynb)
   3. Gradient Boosting  
        Project of 3 sprint - [A nonlinear model for predicting the fair value of used cars, taking into account business risks](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_4/DecisionTree/A%20nonlinear%20model%20for%20predicting%20the%20fair%20value%20of%20used%20cars%2C%20taking%20into%20account%20business%20risks.ipynb)
+  4. Final Project of 4 Module - [A nonlinear model for predicting hotel room cancellations](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_4/DecisionTree/A%20nonlinear%20model%20for%20predicting%20hotel%20room%20cancellations.ipynb)
 
-**Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib, optuna, imblearn, mlxtend, xgboost, catboost, lightboost, shap
+**Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib, optuna, imblearn, mlxtend, xgboost, catboost, lightboost, shap, nltk, TfidfVectorizer, sqlalchemy
