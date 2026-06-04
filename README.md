@@ -41,7 +41,7 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
 **Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, joblib, optuna, imblearn, mlxtend, xgboost, catboost, lightboost, shap, nltk, TfidfVectorizer, sqlalchemy
 
 ## Module 5
-  1. Learning without a teacher
+  1. Learning without a teacher  
        Project of 1 sprint - [Forecasting order delays for a logistics operator](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_5/Forecasting%20order%20delays%20for%20a%20logistics%20operator.ipynb)
 
 **Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, optuna, catboost, PCA, t-SNE. K-Means
