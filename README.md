@@ -45,6 +45,6 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
        Project of 1 sprint - [Forecasting order delays for a logistics operator](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/Module_5/Forecasting%20order%20delays%20for%20a%20logistics%20operator.ipynb)
   2. Implementation and monitoring of models  
        Project of 2 spring - [First Project with AirFlow](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/tree/main/Module_5/First_AirFlow_Project)
+  3. Final Project of 5 Module - [ML-Pipeline for sales forecasting based on batch-characteristics](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/tree/main/Module_5/ML-Pipeline%20for%20sales%20forecasting%20based%20on%20batch-characteristics)  
      
-
-**Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, optuna, catboost, PCA, t-SNE. K-Means, boto3, sqlalchemy, AirFlow
+**Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, optuna, catboost, PCA, t-SNE. K-Means, boto3, sqlalchemy, AirFlow, logging, shap
