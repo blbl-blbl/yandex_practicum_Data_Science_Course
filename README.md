@@ -48,3 +48,8 @@ Projects realized as part of the [Data Science Course by Yandex Practicum](https
   3. Final Project of 5 Module - [ML-Pipeline for sales forecasting based on batch-characteristics](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/tree/main/Module_5/ML-Pipeline%20for%20sales%20forecasting%20based%20on%20batch-characteristics)  
      
 **Tools:** Python, pandas, matplotlib, seaborn, phik, sklearn, numpy, optuna, catboost, PCA, t-SNE. K-Means, boto3, sqlalchemy, AirFlow, logging, shap
+
+## A/B Tests Module
+  1. [A/B Tests](https://github.com/blbl-blbl/yandex_practicum_Data_Science_Course/blob/main/A_B%20Tests%20Module/AB_tests.ipynb)
+
+**Tools:** Python, pandas, matplolib, seaborn, numpy, statsmodels
