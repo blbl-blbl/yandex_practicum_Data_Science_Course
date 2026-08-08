@@ -128,21 +128,6 @@ The repository covers the full progression from SQL and exploratory data analysi
 
 ---
 
-## Repository Structure
-
-```text
-yandex_practicum_Data_Science_Course/
-├── Module_1_SQL/
-├── Module_2_Python_Preprocessing/
-├── Module_3/
-├── Module_4/
-├── Module_5/
-├── A_B Tests Module/
-└── README.md
-```
-
-Each module contains one or more practical projects demonstrating the concepts covered during the course.
-
 ## Current Focus
 
 The repository is actively evolving as the course continues. Upcoming work will be added here together with the corresponding tools, methods and project links.
