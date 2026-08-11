@@ -34,7 +34,7 @@ The repository covers the full progression from SQL and exploratory data analysi
 | 🏨 [Hotel Cancellation Prediction](Module_4/Hotel_Booking_Cancellation_Prediction/)                            | Predict hotel booking cancellations                               | classification, boosting, business metrics     |
 | 📦 [Logistics Delay Forecasting](Module_5/Forecasting%20order%20delays%20for%20a%20logistics%20operator.ipynb) | Analyze and forecast order delays                                 | clustering, dimensionality reduction, ML       |
 | ⚙️ [Airflow ML Project](Module_5/First_AirFlow_Project/)                                                       | Build an automated data/ML workflow                               | Apache Airflow, Python                         |
-| 📈 [Sales Forecasting ML Pipeline](Module_5/ML-Pipeline%20for%20sales%20forecasting/)                          | Build an end-to-end ML pipeline for sales forecasting             | Airflow, CatBoost, boto3, SHAP                 |
+| 📈 [Sales Forecasting ML Pipeline](Module_5/ML%20Pipeline%20for%20sales%20forecasting/)                        | Build an end-to-end ML pipeline for sales forecasting             | Airflow, CatBoost, boto3, SHAP                 |
 | 🧪 [A/B Testing](A_B%20Tests%20Module/AB_tests.ipynb)                                                          | Analyze experimental results and statistical significance         | Python, statsmodels, statistics                |
 
 ---
