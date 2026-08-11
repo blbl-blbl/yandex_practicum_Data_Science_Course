@@ -93,7 +93,7 @@ The repository covers the full progression from SQL and exploratory data analysi
 #### Module 4 — Nonlinear Models
 
 * **Decision Trees**
-  → [Bicycle Demand Forecasting](Module_4/DecisionTree/DecisionTree.ipynb)
+  → [Bicycle Demand Forecasting](Module_4/DecisionTree.ipynb)
 * **Random Forest / Credit Risk**
   → [Loan Default Prediction](Module_4/DecisionTree/A%20model%20for%20predicting%20loan%20defaults%20among%20bank%20clients.ipynb)
 * **Gradient Boosting**
