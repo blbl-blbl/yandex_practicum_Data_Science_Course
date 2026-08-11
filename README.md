@@ -27,15 +27,15 @@ The repository covers the full progression from SQL and exploratory data analysi
 
 ## Featured Projects
 
-| Project                                                                                                                                                                                           | Problem                                                           | Key tools                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------- |
-| 🏦 [Loan Default Prediction](Module_4/DecisionTree/A%20model%20for%20predicting%20loan%20defaults%20among%20bank%20clients.ipynb)                                                                 | Predict loan defaults among bank clients                          | scikit-learn, classification, model evaluation |
-| 🚗 [Used Car Fair Value Prediction](Module_4/DecisionTree/A%20nonlinear%20model%20for%20predicting%20the%20fair%20value%20of%20used%20cars%2C%20taking%20into%20account%20business%20risks.ipynb) | Predict used-car prices while accounting for business constraints | XGBoost, CatBoost, LightGBM, Optuna            |
-| 🏨 [Hotel Cancellation Prediction](Module_4/DecisionTree/A%20nonlinear%20model%20for%20predicting%20hotel%20room%20cancellations.ipynb)                                                           | Predict hotel booking cancellations                               | classification, boosting, business metrics     |
-| 📦 [Logistics Delay Forecasting](Module_5/Forecasting%20order%20delays%20for%20a%20logistics%20operator.ipynb)                                                                                    | Analyze and forecast order delays                                 | clustering, dimensionality reduction, ML       |
-| ⚙️ [Airflow ML Project](Module_5/First_AirFlow_Project/)                                                                                                                                          | Build an automated data/ML workflow                               | Apache Airflow, Python                         |
-| 📈 [Sales Forecasting ML Pipeline](Module_5/ML-Pipeline%20for%20sales%20forecasting%20based%20on%20batch-characteristics/)                                                                        | Build an end-to-end ML pipeline for sales forecasting             | Airflow, CatBoost, boto3, SHAP                 |
-| 🧪 [A/B Testing](A_B%20Tests%20Module/AB_tests.ipynb)                                                                                                                                             | Analyze experimental results and statistical significance         | Python, statsmodels, statistics                |
+| Project                                                                                                        | Problem                                                           | Key tools                                      |
+|----------------------------------------------------------------------------------------------------------------| ----------------------------------------------------------------- | ---------------------------------------------- |
+| 🏦 [Loan Default Prediction](Module_4/Loan_Default_Prediction/)                                                | Predict loan defaults among bank clients                          | scikit-learn, classification, model evaluation |
+| 🚗 [Used Car Fair Value Prediction](Module_4/Used_Car_Fair_Value_Prediction/)                                  | Predict used-car prices while accounting for business constraints | XGBoost, CatBoost, LightGBM, Optuna            |
+| 🏨 [Hotel Cancellation Prediction](Module_4/Hotel_Booking_Cancellation_Prediction/)                            | Predict hotel booking cancellations                               | classification, boosting, business metrics     |
+| 📦 [Logistics Delay Forecasting](Module_5/Forecasting%20order%20delays%20for%20a%20logistics%20operator.ipynb) | Analyze and forecast order delays                                 | clustering, dimensionality reduction, ML       |
+| ⚙️ [Airflow ML Project](Module_5/First_AirFlow_Project/)                                                       | Build an automated data/ML workflow                               | Apache Airflow, Python                         |
+| 📈 [Sales Forecasting ML Pipeline](Module_5/ML-Pipeline%20for%20sales%20forecasting/)                          | Build an end-to-end ML pipeline for sales forecasting             | Airflow, CatBoost, boto3, SHAP                 |
+| 🧪 [A/B Testing](A_B%20Tests%20Module/AB_tests.ipynb)                                                          | Analyze experimental results and statistical significance         | Python, statsmodels, statistics                |
 
 ---
 
@@ -48,9 +48,9 @@ The repository covers the full progression from SQL and exploratory data analysi
 * **SQL Basics: Data Mining**
 * **SQL Data Processing**
 * **Data analysis and ad hoc problem solving**
-  → [The Secrets of Darkwood](Module_1_SQL/3_sprint/3_sprint_project.sql)
+  → [The Secrets of Darkwood](Module_1/3_sprint/3_sprint_project.sql)
 * **Final module project**
-  → [Marketplace data mart and ad hoc analytics](Module_1_SQL/Final_project_of_1_module.sql)
+  → [Marketplace data mart and ad hoc analytics](Module_1/Final_project_of_1_module.sql)
 
 **Tools:** PostgreSQL
 
@@ -61,11 +61,11 @@ The repository covers the full progression from SQL and exploratory data analysi
 #### Module 2 — Python for Data Analysis
 
 * **Gaming industry analysis**
-  → [Gaming Industry Development, 2000–2013](Module_2_Python_Preprocessing/1.%20Games_Analysis/Games_dataset_preprocessing.ipynb)
+  → [Gaming Industry Development, 2000–2013](Module_2/1.%20Games_Analysis/Games_dataset_preprocessing.ipynb)
 * **Exploratory data analysis and visualization**
-  → [Moscow Catering Market Analysis](Module_2_Python_Preprocessing/2.%20food%20sector%20analysis/food_sector_analysis.ipynb)
+  → [Moscow Catering Market Analysis](Module_2/2.%20food%20sector%20analysis/food_sector_analysis.ipynb)
 * **Final module project**
-  → [Yandex Afisha User Loyalty Analysis](Module_2_Python_Preprocessing/Final_project_of_2_module/Final_project_of_2_module.ipynb)
+  → [Yandex Afisha User Loyalty Analysis](Module_2/Final_project_of_2_module/Final_project_of_2_module.ipynb)
 
 **Tools:** Python, pandas, Matplotlib, Seaborn, phik, Bash, SQLAlchemy
 
@@ -76,13 +76,13 @@ The repository covers the full progression from SQL and exploratory data analysi
 #### Module 3 — Linear Models & SVM
 
 * **Linear Regression**
-  → [Sea Turtle Mass Prediction](Module_3/Linear_Regression.ipynb)
+  → [Sea Turtle Mass Prediction](Module_3/Prediction_of_sea_turtle_mass.ipynb)
 * **Logistic Regression**
-  → [Logistic Regression Project](Module_3/logistic_regression.ipynb)
+  → [Logistic Regression Project](Module_3/Customer_churn_prediction.ipynb)
 * **Support Vector Machine**
-  → [Advertising Banner Click Prediction](Module_3/Support%20vector%20machine/SVM.ipynb)
+  → [Advertising Banner Click Prediction](Module_3/Support%20vector%20machine/AD_banner_click_Prediction.ipynb)
 * **Final module project**
-  → [Website Visitor Age Prediction](Module_3/Final%20Progect%20of%203%20Module/Final%20Progect%20of%203%20Module.ipynb)
+  → [Website Visitor Age Prediction](Module_3/Final%20Progect%20of%203%20Module/Clients_Age_Prediction.ipynb)
 
 **Tools:** Python, pandas, NumPy, scikit-learn, Matplotlib, Seaborn, phik, joblib
 
@@ -93,13 +93,13 @@ The repository covers the full progression from SQL and exploratory data analysi
 #### Module 4 — Nonlinear Models
 
 * **Decision Trees**
-  → [Bicycle Demand Forecasting](Module_4/DecisionTree.ipynb)
+  → [Bicycle Demand Forecasting](Module_4/Prediction_of_the_number_of_rented_bicycles.ipynb)
 * **Random Forest / Credit Risk**
-  → [Loan Default Prediction](Module_4/DecisionTree/A%20model%20for%20predicting%20loan%20defaults%20among%20bank%20clients.ipynb)
+  → [Loan Default Prediction](Module_4/Loan_Default_Prediction/)
 * **Gradient Boosting**
-  → [Used Car Fair Value Prediction](Module_4/DecisionTree/A%20nonlinear%20model%20for%20predicting%20the%20fair%20value%20of%20used%20cars%2C%20taking%20into%20account%20business%20risks.ipynb)
+  → [Used Car Fair Value Prediction](Module_4/Used_Car_Fair_Value_Prediction/)
 * **Final module project**
-  → [Hotel Cancellation Prediction](Module_4/DecisionTree/A%20nonlinear%20model%20for%20predicting%20hotel%20room%20cancellations.ipynb)
+  → [Hotel Cancellation Prediction](Module_4/Hotel_Booking_Cancellation_Prediction)
 
 **Tools:** scikit-learn, Optuna, XGBoost, CatBoost, LightGBM, imbalanced-learn, mlxtend, SHAP, NLP, TF-IDF
 
@@ -114,7 +114,7 @@ The repository covers the full progression from SQL and exploratory data analysi
 * **Model implementation and monitoring**
   → [First Airflow Project](Module_5/First_AirFlow_Project/)
 * **Final module project**
-  → [ML Pipeline for Sales Forecasting](Module_5/ML-Pipeline%20for%20sales%20forecasting%20based%20on%20batch-characteristics/)
+  → [ML Pipeline for Sales Forecasting](Module_5/ML%20Pipeline%20for%20sales%20forecasting/)
 
 **Tools:** Python, scikit-learn, Optuna, CatBoost, PCA, t-SNE, K-Means, boto3, Apache Airflow, logging, SHAP
 
