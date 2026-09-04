@@ -90,11 +90,10 @@ Detailed calculations, schemas, tables and conclusions are available in the [pro
 ## Project Structure
 
 ```text
-PySpark_ETL_Recommendation_Marts/
+Big Data Processing/
 ├── README.md
 ├── requirements.txt
 ├── s24_etl.py
-├── .gitignore
 └── docs/
     └── project_report.md
 ```
