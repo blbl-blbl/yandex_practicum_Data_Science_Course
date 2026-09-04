@@ -128,6 +128,8 @@ The repository covers the full progression from SQL and exploratory data analysi
 
 **Tools:** Python, pandas, NumPy, Matplotlib, Seaborn, statsmodels
 
+---
+
 ### 7. Big Data Processing
 
 #### PySpark & ETL
@@ -136,8 +138,6 @@ The repository covers the full progression from SQL and exploratory data analysi
   → [PySpark ETL Pipeline](Big%20Data%20Processing/)
 
 **Tools:** PySpark, Spark SQL, Parquet, S3A, AWS Hadoop Connector
-
----
 
 ---
 
