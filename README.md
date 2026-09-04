@@ -5,6 +5,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn\&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter\&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-ML%20Pipelines-017CEE?logo=apacheairflow\&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-PySpark-E25A1C?logo=apachespark&logoColor=white)
 
 A collection of projects completed as part of the **Data Science course at Yandex Practicum**.
 
@@ -20,6 +21,7 @@ The repository covers the full progression from SQL and exploratory data analysi
 **Machine Learning:** scikit-learn, XGBoost, CatBoost, LightGBM, imbalanced-learn
 **Model tuning & interpretation:** Optuna, SHAP, phik
 **Statistics & experiments:** statsmodels, A/B testing
+**Big Data:** PySpark, Spark SQL, S3A, Parquet
 **ML Engineering:** Apache Airflow, boto3, joblib, logging
 **Other:** PCA, t-SNE, K-Means, NLP, TF-IDF, SQLAlchemy
 
@@ -36,7 +38,7 @@ The repository covers the full progression from SQL and exploratory data analysi
 | ⚙️ [Airflow ML Project](Module_5/First_AirFlow_Project/)                                                       | Build an automated data/ML workflow                               | Apache Airflow, Python                         |
 | 📈 [Sales Forecasting ML Pipeline](Module_5/ML%20Pipeline%20for%20sales%20forecasting/)                        | Build an end-to-end ML pipeline for sales forecasting             | Airflow, CatBoost, boto3, SHAP                 |
 | 🧪 [A/B Testing](A_B%20Tests%20Module/AB_tests.ipynb)                                                          | Analyze experimental results and statistical significance         | Python, statsmodels, statistics                |
-
+| ⚡ [PySpark ETL Pipeline](Big%20Data%20Processing/) | Build five feature marts for a recommendation system | PySpark, Spark SQL, S3A, Parquet |
 ---
 
 ## All Projects
@@ -125,6 +127,17 @@ The repository covers the full progression from SQL and exploratory data analysi
 * [A/B Tests](A_B%20Tests%20Module/AB_tests.ipynb)
 
 **Tools:** Python, pandas, NumPy, Matplotlib, Seaborn, statsmodels
+
+### 7. Big Data Processing
+
+#### PySpark & ETL
+
+* **Recommendation System Feature Marts**  
+  → [PySpark ETL Pipeline](Big%20Data%20Processing/)
+
+**Tools:** PySpark, Spark SQL, Parquet, S3A, AWS Hadoop Connector
+
+---
 
 ---
 
