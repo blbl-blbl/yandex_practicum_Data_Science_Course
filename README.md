@@ -3,13 +3,14 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-4169E1?logo=postgresql\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter\&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-ML%20Pipelines-017CEE?logo=apacheairflow\&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-PySpark-E25A1C?logo=apachespark&logoColor=white)
 
 A collection of projects completed as part of the **Data Science course at Yandex Practicum**.
 
-The repository covers the full progression from SQL and exploratory data analysis to classical machine learning, gradient boosting, experiment analysis, model interpretation and ML pipelines.
+The repository covers the full progression from SQL and exploratory data analysis to classical machine learning, gradient boosting, experiment analysis, model interpretation, ML pipelines and deep learning with PyTorch.
 
 > 🚧 **Course in progress**
 > New projects and modules will be added as I continue through the program.
@@ -19,6 +20,7 @@ The repository covers the full progression from SQL and exploratory data analysi
 **Languages & data:** Python, SQL, PostgreSQL, pandas, NumPy
 **Visualization:** Matplotlib, Seaborn
 **Machine Learning:** scikit-learn, XGBoost, CatBoost, LightGBM, imbalanced-learn
+**Deep Learning:** PyTorch, neural networks, trainable embeddings
 **Model tuning & interpretation:** Optuna, SHAP, phik
 **Statistics & experiments:** statsmodels, A/B testing
 **Big Data:** PySpark, Spark SQL, S3A, Parquet
@@ -39,6 +41,7 @@ The repository covers the full progression from SQL and exploratory data analysi
 | 📈 [Sales Forecasting ML Pipeline](Module_5/ML%20Pipeline%20for%20sales%20forecasting/)                        | Build an end-to-end ML pipeline for sales forecasting             | Airflow, CatBoost, boto3, SHAP                 |
 | 🧪 [A/B Testing](A_B%20Tests%20Module/AB_tests.ipynb)                                                          | Analyze experimental results and statistical significance         | Python, statsmodels, statistics                |
 | ⚡ [PySpark ETL Pipeline](Big%20Data%20Processing/) | Build five feature marts for a recommendation system | PySpark, Spark SQL, S3A, Parquet |
+| 🧠 [Text Sentiment Classification](Deep%20Learning/) | Detect negative reviews and compare neural text representations | PyTorch, embeddings, MLP, PR-AUC |
 ---
 
 ## All Projects
@@ -138,6 +141,19 @@ The repository covers the full progression from SQL and exploratory data analysi
   → [PySpark ETL Pipeline](Big%20Data%20Processing/)
 
 **Tools:** PySpark, Spark SQL, Parquet, S3A, AWS Hadoop Connector
+
+---
+
+### 8. Deep Learning
+
+#### PyTorch — Text Classification
+
+* **Negative Review Detection / Sentiment Classification**  
+  → [Text Sentiment Classification with PyTorch](Deep%20Learning/)
+
+The project compares an MLP trained on engineered review features with a trainable token-embedding model using mean pooling. The text model improved test PR-AUC from **0.4089** to **0.6280** and F1 from **0.3723** to **0.6321**.
+
+**Tools:** PyTorch, pandas, NumPy, scikit-learn, embeddings, MLP, PR-AUC
 
 ---
 
