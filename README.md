@@ -10,10 +10,6 @@
 
 A portfolio of coursework projects created while studying **Data Science at Yandex Practicum** (basic and extended tracks). It contains published work in SQL, data analysis, classical ML, gradient boosting, experimentation, ML pipelines, PySpark and PyTorch.
 
-> **Study status (October 2026):** Participation in the course has ended before formal program completion. I studied the topics in the basic and extended tracks **except recommender systems**; the **graduation project was not completed**. This repository documents my work, not a claim of having graduated or received a completion credential.
-
-**Scope matters:** the PySpark project builds *features for a potential recommender system*; it does **not** implement or evaluate a recommendation model. Some studied topics (notably **MLflow** and **BERT/Hugging Face**) do not currently have a public project in this repository.
-
 ## Technology Stack
 
 **Languages & data:** Python, SQL, PostgreSQL, pandas, NumPy
