@@ -37,11 +37,7 @@ A portfolio of coursework projects created while studying **Data Science at Yand
 | PySpark / large-scale data processing | Yes | [PySpark ETL](Big%20Data%20Processing/) |
 | MLflow experiment tracking | Yes | Studied in the course; no published artifact here |
 | PyTorch / neural-network fundamentals | Yes | [Text classification](Deep%20Learning/) |
-| Transformers, BERT and Hugging Face | Yes | Studied in the course; no published artifact here |
-| Recommender systems | **No** | Not studied; no recommender model implemented |
-| Graduation project | **Not completed** | No graduation project |
-
-See [**COURSE_PROGRESS.md**](COURSE_PROGRESS.md) for the topic-by-topic syllabus mapping and a clear distinction between studied topics and published code.
+| Transformers, BERT and Hugging Face | Yes | Studied in the course
 
 ---
 
@@ -175,7 +171,7 @@ The project compares an MLP trained on engineered review features with a trainab
 
 ## Portfolio status
 
-The course participation has ended; the project links above represent the coursework currently published here. This portfolio includes educational prototypes and analyses, **not** a claim of production deployment or completion of the full program. The missing recommender-systems and graduation projects are not listed as completed.
+The course participation has ended; the project links above represent the coursework currently published here. This portfolio includes educational prototypes and analyses, not a claim of production deployment or completion of the full program.
 
 ## About the Course
 
