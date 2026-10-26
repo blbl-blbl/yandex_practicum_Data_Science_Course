@@ -1,19 +1,18 @@
 # Yandex Practicum — Data Science Portfolio
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-4169E1?logo=postgresql\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-SQL-4169E1?logo=postgresql&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter\&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-ML%20Pipelines-017CEE?logo=apacheairflow\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebooks-F37626?logo=jupyter&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-ML%20Pipelines-017CEE?logo=apacheairflow&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-PySpark-E25A1C?logo=apachespark&logoColor=white)
 
-A collection of projects completed as part of the **Data Science course at Yandex Practicum**.
+A portfolio of coursework projects created while studying **Data Science at Yandex Practicum** (basic and extended tracks). It contains published work in SQL, data analysis, classical ML, gradient boosting, experimentation, ML pipelines, PySpark and PyTorch.
 
-The repository covers the full progression from SQL and exploratory data analysis to classical machine learning, gradient boosting, experiment analysis, model interpretation, ML pipelines and deep learning with PyTorch.
+> **Study status (October 2026):** Participation in the course has ended before formal program completion. I studied the topics in the basic and extended tracks **except recommender systems**; the **graduation project was not completed**. This repository documents my work, not a claim of having graduated or received a completion credential.
 
-> 🚧 **Course in progress**
-> New projects and modules will be added as I continue through the program.
+**Scope matters:** the PySpark project builds *features for a potential recommender system*; it does **not** implement or evaluate a recommendation model. Some studied topics (notably **MLflow** and **BERT/Hugging Face**) do not currently have a public project in this repository.
 
 ## Technology Stack
 
@@ -26,6 +25,23 @@ The repository covers the full progression from SQL and exploratory data analysi
 **Big Data:** PySpark, Spark SQL, S3A, Parquet
 **ML Engineering:** Apache Airflow, boto3, joblib, logging
 **Other:** PCA, t-SNE, K-Means, NLP, TF-IDF, SQLAlchemy
+
+## Coursework coverage
+
+| Area | Studied | Public evidence |
+|---|---|---|
+| SQL, Python, EDA and visualization | Yes | [SQL](Module_1/), [Python/EDA](Module_2/) |
+| Linear models, SVM, trees and ensembles | Yes | [Linear ML](Module_3/), [Tree-based ML](Module_4/) |
+| Unsupervised learning, statistics and A/B testing | Yes | [Unsupervised ML](Module_5/), [A/B tests](A_B%20Tests%20Module/) |
+| ML workflows and orchestration | Yes | [Airflow projects](Module_5/) |
+| PySpark / large-scale data processing | Yes | [PySpark ETL](Big%20Data%20Processing/) |
+| MLflow experiment tracking | Yes | Studied in the course; no published artifact here |
+| PyTorch / neural-network fundamentals | Yes | [Text classification](Deep%20Learning/) |
+| Transformers, BERT and Hugging Face | Yes | Studied in the course; no published artifact here |
+| Recommender systems | **No** | Not studied; no recommender model implemented |
+| Graduation project | **Not completed** | No graduation project |
+
+See [**COURSE_PROGRESS.md**](COURSE_PROGRESS.md) for the topic-by-topic syllabus mapping and a clear distinction between studied topics and published code.
 
 ---
 
@@ -157,9 +173,9 @@ The project compares an MLP trained on engineered review features with a trainab
 
 ---
 
-## Current Focus
+## Portfolio status
 
-The repository is actively evolving as the course continues. Upcoming work will be added here together with the corresponding tools, methods and project links.
+The course participation has ended; the project links above represent the coursework currently published here. This portfolio includes educational prototypes and analyses, **not** a claim of production deployment or completion of the full program. The missing recommender-systems and graduation projects are not listed as completed.
 
 ## About the Course
 
